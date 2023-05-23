@@ -1,0 +1,2 @@
+# nfactorial
+nfactorial game
